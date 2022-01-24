@@ -22,7 +22,6 @@ export default function Home(bands) {
             </header>
             <main className=''>
                 <section className=''>
-
                 </section>
             </main>
 	    
